@@ -1,0 +1,28 @@
+{
+    "short_name": "COBA PWA",
+    "name": "COBA PWAAAAAAAAA",
+    "display": "standalone",
+    "description": "haloo mama",
+    "scope": "/",
+    "theme_color": "#2871ab",
+    "background_color": "#79a4c7",
+    "orientation": "portrait",
+    "icons": [{
+            "src": "images/launcher-icon-1x.png",
+            "type": "image/png",
+            "size": "48x48"
+        },
+        {
+            "src": "images/launcher-icon-2x.png",
+            "type": "image/png",
+            "size": "96x96"
+        },
+        {
+            "src": "images/launcher-icon-3x.png",
+            "type": "image/png",
+            "size": "192x192"
+        }
+    ],
+    "start_url": "/index.html"
+
+}
